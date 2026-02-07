@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "ユメセカイ",
+  "base_artist": "Haruka Tomatsu",
+  "createdAt": "2026-02-07T07:46:46.745518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/01_ユメセカイ_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/02_ユメセカイ_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/03_ユメセカイ_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/04_ユメセカイ_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/05_ユメセカイ_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/06_ユメセカイ_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユメセカイ(TV Size Ver.)",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/07_ユメセカイ(TV_Size_Ver.)_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/08_ユメセカイ_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/09_ユメセカイ_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "戶松遙",
+      "has_synced": true,
+      "path": "select/10_ユメセカイ_戶松遙.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ユメセカイ",
+      "artist": "Tomatsu Haruka",
+      "has_synced": true,
+      "path": "select/11_ユメセカイ_Tomatsu_Haruka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ユメセカイ（TV Size Ver.）",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/12_ユメセカイ(TV_Size_Ver.)_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_01_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_02_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_03_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_04_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_05_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_06_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_07_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_08_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_09_ユメセカイ_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ユメセカイ",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_10_ユメセカイ_戸松_遥.txt"
+    }
+  ]
+}
